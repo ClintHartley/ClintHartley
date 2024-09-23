@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ClintHartley
 - 👀 I’m interested in white hat hacking
 - 🌱 I’m currently learning "COMP-1327 (259303) Software Development Fundamentals" From RRC Polytech
-- 💞️ I’m looking to collaborate on TBA
-- 📫 How to reach me WIP
-- 😄 Pronouns: WIP
+- 💞️ I’m looking to collaborate on (Don't know what to put in this)
+- 📫 How to reach me NULL
+- 😄 Pronouns: He/Him/Bro/Buddy/Carrot top
 - ⚡ Fun fact: WIP
 
 <!---
